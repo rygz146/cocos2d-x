@@ -50,6 +50,7 @@ Temporary Items
 Debug.win32
 *.opensdf
 *.sdf
+*.suo
 
 #cocos生成文件
 *.udf
