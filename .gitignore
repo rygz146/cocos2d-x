@@ -45,3 +45,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#win32生成文件
+Debug.win32
+*.opensdf
+*.sdf
+
+#cocos生成文件
+*.udf
